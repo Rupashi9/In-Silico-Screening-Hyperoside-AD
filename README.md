@@ -1,6 +1,6 @@
 # In-Silico-Screening-Hyperoside-AD
 Data and methods for the in-silico discovery of MTDL leads from Himalayan phytoconstituents targeting Alzheimer's Disease (BACE1 and MAO-B). Includes docking poses, ADMET profiles, and reverse pharmacology screening results
-# In-Silico Screening of Himalayan Phytoconstituents for Alzheimer’s Therapy
+# ADMET Profiling and In-silico Screening of Himalayan Phytoconstituents as Multi-Targeting Alzheimer's Disease Inhibitors: A Reverse Pharmacology Method.
 **Targeting Multi-Target Directed Ligands (MTDL) via Reverse Pharmacology**
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--5144--8676-green)](https://orcid.org/0009-0002-5144-8676)
